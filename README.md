@@ -1,6 +1,7 @@
 # AmazonPrime_DashBoard_Portfolio
 
-![Ban](https://github.com/SFutureAnalyst/AmazonPrime_DashBoard_Portfolio/assets/146059342/f6ccf3b3-552a-4bf8-9428-c40e2071252b)
+
+![Ban](https://github.com/SFutureAnalyst/AmazonPrime_Video_DashBoard_PortFolio/assets/146059342/cf089f16-14bb-4091-8b55-5c55e2fb3bdb)
 
 
 ## About
